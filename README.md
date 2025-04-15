@@ -1,4 +1,4 @@
-# Project Management Dashboard README
+# Project Management Dashboard 
 ## Overview
 The Project Management Dashboard provides a comprehensive view of various projects aimed at improving content marketing through innovative solutions. This dashboard is designed to help stakeholders assess project performance, costs, benefits, and statuses across different regions and departments.  
 
